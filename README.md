@@ -1,2 +1,2 @@
 # CW
-explore python skillset. 
+exploring my python skillset. 
